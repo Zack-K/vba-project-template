@@ -1,0 +1,12 @@
+{
+    "name": "vba-sdd-template",
+    "version": "1.0.0",
+    "description": "VBA Specification Driven Development Template",
+    "xvba": {
+        "vbaDirectory": "src",
+        "excelFile": "bin/project.xlsm"
+    },
+    "scripts": {
+        "sync": "xvba run sync"
+    }
+}

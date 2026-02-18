@@ -1,0 +1,14 @@
+# Excel temporary files
+~$*.xl*
+
+# Excel binary (optional: keep if you want to include the base template)
+# bin/*.xlsm
+
+# XVBA specific
+.xvba/
+node_modules/
+package-lock.json
+
+# OS specific
+.DS_Store
+Thumbs.db
