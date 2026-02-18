@@ -9,7 +9,7 @@ AI（Antigravity等）を活用し、VSCodeで仕様からVBAコードを生成�
 ### 1. 必要なツールのインストール
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [XVBA 拡張機能](https://marketplace.visualstudio.com/items?itemName=AndrewButwin.xvba)
-- [VBA Language Support](https://marketplace.visualstudio.com/items?itemName=Gimly81.vba)
+- [VBA (serkonda7)](https://marketplace.visualstudio.com/items?itemName=serkonda7.vscode-vba)
 
 ### 2. Excel 側の設定
 XVBAがExcelを操作できるように許可する必要があります。
